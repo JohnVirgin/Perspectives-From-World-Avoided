@@ -21,4 +21,4 @@ TBA
 - Scripts call upon pickled radiative feedback lists
 
 # Plotting Scripts
-- These recquire the pickled files created from the entire model output, available at (TBA).
+- These require the pickled files created from the entire model output, available at (TBA).
