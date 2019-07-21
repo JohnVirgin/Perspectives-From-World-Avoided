@@ -5,7 +5,7 @@ Is Arctic Amplification Dominated by Regional Forcing and Feedbacks: Perspective
 
 # Full Citation
 
-Virgin, J. G., & Smith, K. L. (2019). Is Arctic Amplification dominated by regional radiative forcing and feedbacks: Perspectives from the World-Avoided scenario. Geophysical Research Letters, 46(11).
+Virgin, J. G., & Smith, K. L. (2019).Is Arctic amplification dominated by regional radiative forcing and feedbacks: Perspectives from theWorld-Avoided scenario. Geophysical Research Letters, 46. https://doi.org/10.1029/2019GL082320
 
 
 # Preamble notes
